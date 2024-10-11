@@ -1,1 +1,7 @@
 Hello i am in the GIt file , i am performing some write operations in Git file
+git init                                    --->  used to initialize the project and track changes
+git remote add origin "https://github.com/lokesherige/AreyBabu.git"---> make the connection between local repo and Remote repo
+git add .                                   ----> used to add the files 
+git commit -m "changes are done for the file 'gitFIle'  "----> commited the changes and given a message to track it.
+git push origin main                        -----> the files are pushed into the remote repository
+
