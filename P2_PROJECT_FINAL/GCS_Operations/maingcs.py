@@ -10,7 +10,7 @@ if __name__ == "__main__":
         "cleaned_folder",
         
     ]
-
+    # python code
     # Create the bucket and folders
     create_bucket_and_folders(bucket_name, folders_to_create)
 
